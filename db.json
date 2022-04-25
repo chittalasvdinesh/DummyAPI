@@ -1,0 +1,16 @@
+[
+    {
+        id:1,
+        employeeName:"dinesh",
+        designation:"front-end",
+        salary:90000
+
+    },
+    {
+        id:2,
+        employeeName:"dinnu",
+        designation:"back-end",
+        salary:80000
+
+    },
+]
